@@ -1,0 +1,2 @@
+Solo informa el estado de la integracio y registros procesados.
+No indica que pasó con cada uno de los registros.

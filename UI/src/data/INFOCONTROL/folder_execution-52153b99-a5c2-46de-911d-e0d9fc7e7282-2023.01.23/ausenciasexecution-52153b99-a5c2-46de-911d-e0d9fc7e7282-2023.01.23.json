@@ -1,0 +1,8 @@
+{
+  "ID" : "3",
+  "Fecha" : "01/01/2020",
+  "Estado" : "Process completed with transaction errors.   If Transaction Assistant is enabled, failed records can be re-submitted through Transaction Assistant.",
+  "Transacciones" : "142",
+  "ExecutionID" : "execution-52153b99-a5c2-46de-911d-e0d9fc7e7282-2023.01.23",
+  "TipoAccion" : "1"
+}
